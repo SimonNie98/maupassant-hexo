@@ -133,7 +133,7 @@ info:
       outlink: https://www.linkedin.com/in/xrnie/
       message: LinkedIn
     - name: envelope
-      outlink: simonnie1998@gmail.com
+      outlink: mailto:simonnie1998@gmail.com
       message: Email
     - name: github
       outlink: https://github.com/simonnie98
