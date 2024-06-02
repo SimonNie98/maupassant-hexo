@@ -65,7 +65,7 @@ swiftype: ## Your swiftype_key, e.g. m7b11ZrsT8Me7gzApciT
 self_search: true ## Use a jQuery-based local search engine, true/false.
 search:
   path: search.xml
-  field: post
+  field: all
   content: true
   template: ./search.xml
 google_analytics: G-QVD4MYJSXZ
